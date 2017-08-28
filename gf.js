@@ -1,7 +1,6 @@
 'use strict';
 
 var gulp = require('gulp');
-//var jshint = require('jshint');
 var $ = require('gulp-load-plugins')();
 var del = require('del');
 var merge = require('merge-stream');
