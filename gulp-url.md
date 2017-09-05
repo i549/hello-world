@@ -6,3 +6,6 @@ https://gulpjs.com/plugins/
 
 3. 前端模块化（require import export）
 http://www.cnblogs.com/libin-1/p/7127481.html
+
+4. angular文档
+https://angular.cn/guide/displaying-data
