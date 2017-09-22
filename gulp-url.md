@@ -29,3 +29,5 @@
 14. [Idea Theme](http://color-themes.com/?view=index)
 
 15. [前端开发仓库](http://code.ciaoca.com/)
+
+16. [Jquery 之家](http://www.htmleaf.com/)
