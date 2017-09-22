@@ -13,3 +13,17 @@
 6. [Maven教程](http://www.yiibai.com/maven/)
 
 7. [Node.js文档](http://nodejs.cn/api/assert.html)
+
+8. [ECMAScript 6入门](http://es6.ruanyifeng.com/#docs/intro)
+
+9. [Java开源大全](http://www.open-open.com/)
+
+10. [Leaflet API](http://leafletjs.com/reference-1.2.0.html)
+
+11. [Echarts Api](http://echarts.baidu.com/api.html#echarts)
+
+12. [Jquery Api](http://jquery.cuishifeng.cn/)
+
+13. [MDN Web Docs](https://developer.mozilla.org/zh-CN/)
+
+14. [Idea Theme](http://color-themes.com/?view=index)
