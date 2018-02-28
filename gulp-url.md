@@ -33,3 +33,5 @@
 16. [Jquery 之家](http://www.htmleaf.com/)
 
 17. [Spring Boot Docs](https://docs.spring.io/spring-boot/docs/current/reference/htmlsingle/#boot-documentation-about)
+
+18. [zookeeper手册](https://www.w3cschool.cn/zookeeper/)
