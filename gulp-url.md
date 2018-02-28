@@ -35,3 +35,5 @@
 17. [Spring Boot Docs](https://docs.spring.io/spring-boot/docs/current/reference/htmlsingle/#boot-documentation-about)
 
 18. [zookeeper手册](https://www.w3cschool.cn/zookeeper/)
+
+19. [love2文档分析阅读](https://love2.io/)
