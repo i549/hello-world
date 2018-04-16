@@ -15,3 +15,5 @@
 	"update_check": false,
 	"word_wrap": "auto"
 }
+
+"color_scheme": "Packages/Color Scheme - Default/Solarized (Light).tmTheme",
