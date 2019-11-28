@@ -1,2 +1,2 @@
-# hello-world
-Just another repository
+# personal notes
+notes for java, javascript, gulp, docker, nginx...
