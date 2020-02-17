@@ -1,0 +1,43 @@
+{
+  "name": "@izc/cli",
+  "version": "1.0.0",
+  "description": "This is a client project generator by izc.",
+  "scripts": {
+    "pub": "npm publish",
+    "pub-force": "npm unpublish @izc/cli --force && npm publish",
+    "v-major": "echo \"主版本发布：重大变更，不向后兼容\" && npm version major",
+    "v-minor": "echo \"次版本发布：新功能，向后兼容\" && npm version minor",
+    "v-patch": "echo \"补丁版本发布：bug修复，向后兼容\" && npm version patch",
+    "pub-patch": "npm run v-patch && npm run pub",
+    "pub-minor": "npm run v-minor && npm run pub",
+    "pub-major": "npm run v-major && npm run pub"
+  },
+  "keywords": [
+    "templates",
+    "pinnet"
+  ],
+  "bin": {
+    "pinnet": "bin/index.js"
+  },
+  "publishConfig": {
+    "access": "public",
+    "registry": "http://127.0.0.1:4873/"
+  },
+  "files": [
+    "bin",
+    "lib",
+    "templates"
+  ],
+  "author": "izc",
+  "license": "ISC",
+  "dependencies": {
+    "chalk": "^3.0.0",
+    "child_process": "^1.0.2",
+    "commander": "^4.1.0",
+    "fs-extra": "^8.1.0",
+    "inquirer": "^7.0.3",
+    "through2": "^3.0.1",
+    "vinyl-fs": "^3.0.3",
+    "which": "^2.0.2"
+  }
+}
