@@ -21,7 +21,7 @@
   },
   "publishConfig": {
     "access": "public",
-    "registry": "http://10.10.12.13:4873/"
+    "registry": "http://127.0.0.1:4873/"
   },
   "files": [
     "bin",
