@@ -21,7 +21,7 @@ if (major < 8) {
         'You are running Node ' +
         currentNodeVersion +
         '.\n' +
-        '@pinnet/cli requires Node 8 or higher. \n' +
+        '@izc/cli requires Node 8 or higher. \n' +
         'Please update your version of Node.'
     );
     process.exit(1);
