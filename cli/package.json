@@ -14,10 +14,10 @@
   },
   "keywords": [
     "templates",
-    "pinnet"
+    "cli"
   ],
   "bin": {
-    "pinnet": "bin/index.js"
+    "izc": "bin/index.js"
   },
   "publishConfig": {
     "access": "public",
