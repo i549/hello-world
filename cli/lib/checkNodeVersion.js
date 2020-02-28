@@ -10,7 +10,7 @@ module.exports = () => {
         console.error(
             'You are running Node ' +
             version + '.\n' +
-            '@pinnet/cli requires Node 8 or higher.\n' +
+            '@izc/cli requires Node 8 or higher.\n' +
             'Please update your version of Node.'
         );
         process.exit(1);
