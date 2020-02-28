@@ -1,7 +1,7 @@
 {
   "name": "@izc/cli",
   "version": "1.0.0",
-  "description": "This is a client project generator by izc.",
+  "description": "This is a ui project generator by izc.",
   "scripts": {
     "pub": "npm publish",
     "pub-force": "npm unpublish @izc/cli --force && npm publish",
@@ -21,7 +21,7 @@
   },
   "publishConfig": {
     "access": "public",
-    "registry": "http://127.0.0.1:4873/"
+    "registry": "http://10.10.12.13:4873/"
   },
   "files": [
     "bin",
@@ -35,7 +35,7 @@
     "child_process": "^1.0.2",
     "commander": "^4.1.0",
     "fs-extra": "^8.1.0",
-    "inquirer": "^7.0.3",
+    "inquirer": "^7.0.4",
     "through2": "^3.0.1",
     "vinyl-fs": "^3.0.3",
     "which": "^2.0.2"
