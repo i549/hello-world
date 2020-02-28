@@ -16,7 +16,7 @@ checkNodeVersion();
 
 // 定义全局参数
 const config = {
-    scope: 'pinnet',
+    scope: 'izc',
     templates: getTemplates(),
 };
 
